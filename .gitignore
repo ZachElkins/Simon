@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.eggs/
+setup.py
+images/
+build/
+dist/
